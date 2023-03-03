@@ -212,14 +212,14 @@ function App() {
                 </div>
                 <div className="card-actions justify-end">
                   <a
-                    href=""
+                    href="https://portolukivt23.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn btn-primary"
                   >
                     Link
                   </a>
-                  <a href="" target="_blank" rel="noreferrer" className="btn">
+                  <a href="https://github.com/Lukitubbies666/portofolioluki" target="_blank" rel="noreferrer" className="btn">
                     Github
                   </a>
                 </div>
